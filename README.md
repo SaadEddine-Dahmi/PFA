@@ -1,4 +1,4 @@
-# Blood Donors using Flask and SQLAlchemy
+# Blood Donors using Flask and SQLAlchemy and 
 
 This project is a web application for managing blood donors using Flask, a Python web framework, and SQLAlchemy, a Python SQL toolkit and Object-Relational Mapping (ORM) library.
 
@@ -8,8 +8,8 @@ Before running this application, you will need to have the following installed:
 
    - Python 3.6 or higher  
    - Flask         
-   - SQLAlchemy       
-   - SQLite or another SQL database        
+   - SQLAlchemy database       
+   - JINJA python template engine        
 
 
 
