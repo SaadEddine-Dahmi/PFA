@@ -37,8 +37,8 @@ git clone: https://github.com/SaadEddine-Dahmi/PFA_Project.git
 ### Some images :
 <img src="https://github.com/SaadEddine-Dahmi/PFA/blob/master/static/Donors.png" >
 <img src="https://github.com/SaadEddine-Dahmi/PFA/blob/master/static/about.png">
-<img src="https://github.com/SaadEddine-Dahmi/img/blob/master/static/contact.png">
-<img src="https://github.com/SaadEddine-Dahmi/img/blob/master/static/become.png">
+<img src="https://github.com/SaadEddine-Dahmi/PFA/blob/master/static/contact.png">
+<img src="https://github.com/SaadEddine-Dahmi/PFA/blob/master/static/become.png">
 
 
 ### Contributing
