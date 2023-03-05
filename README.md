@@ -35,10 +35,10 @@ git clone: https://github.com/SaadEddine-Dahmi/PFA_Project.git
  py fflask.py
  ```
 ### Some images :
-<img src="https://github.com/SaadEddine-Dahmi/img/blob/master/Donors.png" >
-<img src="https://github.com/SaadEddine-Dahmi/img/blob/master/about.png">
-<img src="https://github.com/SaadEddine-Dahmi/img/blob/master/contact.png">
-<img src="https://github.com/SaadEddine-Dahmi/img/blob/master/become.png">
+<img src="https://github.com/SaadEddine-Dahmi/PFA/blob/master/static/Donors.png" >
+<img src="https://github.com/SaadEddine-Dahmi/PFA/blob/master/static/about.png">
+<img src="https://github.com/SaadEddine-Dahmi/img/blob/master/static/contact.png">
+<img src="https://github.com/SaadEddine-Dahmi/img/blob/master/static/become.png">
 
 
 ### Contributing
